@@ -1,2 +1,33 @@
 # DarkX
 DarkX Skin for foobar2000 Mobile, v1.5 preview
+
+Use the last v1.5 preview available https://www.foobar2000.org/apk
+
+Displayed fields:
+
+Media
+
+    Artist
+    Composer
+    Country & Flag (when tagged with %country% ISO 3166-1 two-letter country code)
+    Title
+    Album - Year
+    Track # - Disc #
+    Rating
+    Genre
+    Filename
+    Replaygain
+    Codec - Bitrate - Sample Rate - Channels
+
+
+Radio:
+
+    Artist
+    Title
+    Album - Year
+    Track # - Disc #
+    StreamTitle
+    URL
+    Genre
+    Codec - Bitrate - Sample Rate - Channels
+
