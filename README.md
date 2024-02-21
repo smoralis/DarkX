@@ -18,6 +18,7 @@ Media
     Country & Flag (when tagged with %country% ISO 3166-1 two-letter country code)
     Title
     Album - Year
+	Bits Per Sample
     Track # - Disc #
     Rating
     Genre
@@ -31,6 +32,7 @@ Radio:
     Artist
     Title
     Album - Year
+	Bits Per Sample
     Track # - Disc #
     StreamTitle
     URL
